@@ -33,7 +33,10 @@ public class template {
 	static PrintWriter pw = new PrintWriter(System.out);
 
 	public static void main(String[] args) {
-		// YOUR CODE HERE
+        File file = new File("filein.in");
+        InputReader r = new InputReader(new FileInputStream(file));
+        PrintWriter pw = new PrintWriter("fileout.out");
+
 		pw.close(); // flushes the output once printing is done
 	}
 }
