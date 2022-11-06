@@ -1,2 +1,2 @@
 # Competetive Programming 
-This is a repo that has my solutions to all programming competitions that I participate in
+This is a repo that has my solutions to all the programming competitions that I participate in
