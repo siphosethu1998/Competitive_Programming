@@ -1,2 +1,2 @@
 # Competetive Programming 
-This is a repo for all the programming competitions that take part on
+This is a repo for all the programming competitions that I take part on
